@@ -1,0 +1,6 @@
+/src/private.ts
+/dist/
+/node_modules/
+/.idea/
+/mysql/node_modules/
+/yarn.lock/
